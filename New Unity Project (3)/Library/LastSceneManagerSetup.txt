@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/JP_School restroom/Scene/School Restroom_MEN.unity
+  isLoaded: 1
+  isActive: 1
